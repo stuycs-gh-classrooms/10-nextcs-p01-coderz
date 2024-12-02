@@ -2,7 +2,7 @@
 ### Period: 10
 ### Name0: Angela Yee
 ### Name1: Israt Hossain
-#### Selected Game: YOUR GAME HERE
+#### Selected Game: Breakout/Arkanoid
 ---
 
 ### How To Play
