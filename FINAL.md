@@ -1,7 +1,7 @@
 # NeXtCS Project 01
 ### Period: 10
 ### Name0: Angela Yee
-### Name1: TEAMMATE NAME HERE (delete if working solo)
+### Name1: Israt Hossain
 #### Selected Game: YOUR GAME HERE
 ---
 
