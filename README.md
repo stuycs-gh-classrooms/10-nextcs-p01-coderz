@@ -22,7 +22,7 @@ This project will be completed in phases. The first phase will be to work on thi
 ### Necessary Features
 What are the core features that your program should have? These should be things that __must__ be implemented in order to make the program useable/playable, not extra features that could be added to make the program more interesting/fun.
 
-We should have a working grid which is made up of different rectangles. We will use two-dimensional arrays to achieve this result. We also need a working "paddle" which will be controlled by the user. We can use if statements and keyPressed to allow for movement of the paddle. The ball needs to move as well. It needs to bounce off the paddle and strike the blocks. The blocks, if hit, will disappear. We can implement the ball direction by changing the y direction if it hits the paddle or if it bounces on the edge of the screen (if the user misses the ball). If the block is hit, the block will change to the background color. We can use if statements by setting the color to a specific value. If the block is already hit, the ball will simply pass through until it bounces off the next edge or block. In order to reset the game, the player can press a key (r) to return the game to its original settings. If the ball is stuck under the bar, 
+We should have a working grid which is made up of different rectangles. We will use two-dimensional arrays to achieve this result. We also need a working "paddle" which will be controlled by the user. We can use if statements and keyPressed to allow for movement of the paddle. The ball needs to move as well. It needs to bounce off the paddle and strike the blocks. The blocks, if hit, will disappear. We can implement the ball direction by changing the y direction if it hits the paddle or if it bounces on the edge of the screen (if the user misses the ball). If the block is hit, the block will change to the background color. We can use if statements by setting the color to a specific value. If the block is already hit, the ball will simply pass through until it bounces off the next edge or block. In order to reset the game, the player can press a key (r) to return the game to its original settings. If the ball is stuck under the bar, the game will automatically reset the ball and the bar to the original position.
 
 ### Extra Features
 What are some features that are not essential to the program, but you would like to see (provided you have time after completing the necessary features. Theses can be customizations that are not part of the core requirements.
@@ -44,10 +44,10 @@ How will your program be controlled? List all keyboard commands and mouse intera
 
 Keyboard Commands:
 - r = reset
-- left and right arrow keys = move the ball
+- left and right arrow keys = move the bar
 
 Mouse Control:
-- Mouse movement:
+- Mouse movement: move the bar left or right
 - Mouse pressed:
 
 
