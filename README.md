@@ -33,7 +33,7 @@ Instead of having a uniformly spaced out array with rectangles, the rectangles c
 How will you be using arrays in this project?
 
 1D Array:
-- YOUR ANSER HERE
+We'd be using 1d arrays to locate the ball, the blocks and mainly for position finding. 
 
 2D Array:
 - We will use 2D Arrays to create our grid of rectangles.
