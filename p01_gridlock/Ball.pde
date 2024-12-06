@@ -1,4 +1,3 @@
-
 class Ball{
   int xcor;
   int ycor;
