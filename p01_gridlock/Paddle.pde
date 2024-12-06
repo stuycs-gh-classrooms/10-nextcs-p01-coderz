@@ -11,4 +11,8 @@ class Paddle{
     w = ww;
     h = hh;
   }//constructor
+  
+  void display(){
+    rect (xcor, ycor, w, h);
+  }
 }

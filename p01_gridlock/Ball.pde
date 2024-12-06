@@ -9,9 +9,14 @@ class Ball{
     ycor = y;
     size = s;
   }//constructor
-  
+ 
   void newColor(color CC){
     c = CC;
+  }
+  
+  void display(){
+    fill(c);
+    circle (xcor, ycor, size);
   }
   
 }
