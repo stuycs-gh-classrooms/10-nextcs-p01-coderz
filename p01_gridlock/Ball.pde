@@ -15,7 +15,7 @@ class Ball{
   }
   
   void display(){
-    fill(c);
+    fill(#647CAA);
     circle (xcor, ycor, size);
   }
   

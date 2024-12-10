@@ -12,7 +12,12 @@ class Paddle{
     h = hh;
   }//constructor
   
+  void paddleMovement(){
+    xcor -= 5;
+  }
+  
   void display(){
+    fill(0);
     rect (xcor, ycor, w, h);
   }
 }
